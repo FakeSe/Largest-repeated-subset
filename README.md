@@ -1,4 +1,4 @@
-# Largest-repeated-subset
+# Longest repeated subset in given array:
 Find the longest repeated subset of array elements in given array.
 For example:
     for array('b','r','o','w','n','f','o','x','h','u','n','t','e','r','n','f','o','x','r','y','h','u','n')
